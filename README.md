@@ -58,7 +58,7 @@
 
 ### 🧩 Fun Stuff
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Emu12-tile&theme=dark&hide_border=false)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Emu12-tile&theme=dark)](https://git.io/streak-stats)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Emu12-tile&style=flat-square)
 
